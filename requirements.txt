@@ -1,0 +1,5 @@
+temporalio
+requests
+sqlalchemy
+sendgrid
+aiohttp
